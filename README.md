@@ -17,11 +17,17 @@ Introduction to data Sets:
 	information of 101 videos for tiny object detection tasks; Subset-B segments more than 26,000 sperms in 10 videos as
 	ground truth (GT) for tiny object tracking tasks; Subset-C provides more than 125,000 independent images of sperms and
 	impurities for tiny object classification tasks.
+
 Download the way:
 	This is just a simple example of a data set due to github's limited data volume, which can be downloaded from XXXX.
+
 Use requirement:
 	Any non-commercial research work is welcome to use the database.
+
 Training model：main.py
+
 Obtain test results: get_predicted_result.py
+
 Get comment information: get_GroundTruth.py
+
 The relevant evaluation indexes were calculated: calculate_mAP.py

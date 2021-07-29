@@ -1,1 +1,0 @@
-Folder where to place weight files, clustered anchor sizes, and categories.
