@@ -19,7 +19,7 @@ Introduction to data Sets:
 	impurities for tiny object classification tasks.
 
 Download the way:
-	This is just a simple example of a data set due to github's limited data volume, which can be downloaded from XXXX.
+	This is just a simple example of a data set due to github's limited data volume, which can be downloaded from https://doi.org/10.6084/m9.figshare.15074253.v1.
 
 Use requirement:
 	Any non-commercial research work is welcome to use the database.
